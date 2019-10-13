@@ -1,0 +1,7 @@
+python-dotenv
+discord.py
+tortoise-orm
+aiosqlite
+python-dateutil
+Pillow
+python-slugify

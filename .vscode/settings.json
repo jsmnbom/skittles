@@ -1,0 +1,4 @@
+{
+    "python.pythonPath": "/home/jas/.pyenv/versions/skittles/bin/python",
+    "python.formatting.provider": "yapf"
+}
